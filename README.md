@@ -5,42 +5,42 @@ Sistem Laporan Hasil Panen Harian TBS Kelapa Sawit menggunakan CodeIgniter, Boot
 
 <h3>Home Page</h3>
 
-![1](https://github.com/Pajar-Padillah/palm-oil-daily-harvest/assets/81399270/ca9632b4-5c62-4844-8458-d0cecf8f2450)
+![1](https://github.com/Pajar-Padillah/palm-oil-daily-harvest/assets/81399270/f1670bcc-8d44-4dde-a214-69b69b4f8642)
 
 <h3>Login</h3>
 
-![2](https://github.com/Pajar-Padillah/palm-oil-daily-harvest/assets/81399270/54eadfa0-a46c-40cf-8c93-a0069d6511ab)
+![2](https://github.com/Pajar-Padillah/palm-oil-daily-harvest/assets/81399270/4bbeaf9f-7edb-4955-8c61-006074fb7afa)
 
 <h3>Dashboard</h3>
 
-![3](https://github.com/Pajar-Padillah/palm-oil-daily-harvest/assets/81399270/43b9102f-c660-45fd-b865-633ba15ebab5)
+![3](https://github.com/Pajar-Padillah/palm-oil-daily-harvest/assets/81399270/fe47e8ce-409a-4395-b7d8-9669ce39fb26)
 
 <h3>Profile</h3>
 
-![4](https://github.com/Pajar-Padillah/palm-oil-daily-harvest/assets/81399270/7290b7fc-62e0-47ee-ac82-4d7785e7ed81)
+![4](https://github.com/Pajar-Padillah/palm-oil-daily-harvest/assets/81399270/e55479d0-060f-4e74-a48f-04d7c9b2bda2)
 
 <h3>Users</h3>
 
-![5](https://github.com/Pajar-Padillah/palm-oil-daily-harvest/assets/81399270/3b547e50-1caf-45e5-954c-751b43a857a7)
+![5](https://github.com/Pajar-Padillah/palm-oil-daily-harvest/assets/81399270/02376949-cea6-4c20-9494-ca5ae76cc68b)
 
 <h3>Units</h3>
 
-![6](https://github.com/Pajar-Padillah/palm-oil-daily-harvest/assets/81399270/2cff82c4-1c37-4091-92c9-0014efd3afa3)
+![6](https://github.com/Pajar-Padillah/palm-oil-daily-harvest/assets/81399270/e44b8852-616a-46c9-a463-e2d2cfe72c88)
 
 <h3>Afdelings</h3>
 
-![7](https://github.com/Pajar-Padillah/palm-oil-daily-harvest/assets/81399270/d544dee4-078f-4576-9608-35364d3eb1dc)
+![7](https://github.com/Pajar-Padillah/palm-oil-daily-harvest/assets/81399270/70920d93-eb4c-491e-8ddd-72e02eeae887)
 
 <h3>Harvest</h3>
 
-![8](https://github.com/Pajar-Padillah/palm-oil-daily-harvest/assets/81399270/80019861-7941-452a-bc34-73bbdefa4e9c)
+![8](https://github.com/Pajar-Padillah/palm-oil-daily-harvest/assets/81399270/06e73645-6582-461e-8974-8a0a3c084007)
 
 <h3>Harvest History</h3>
 
-![9](https://github.com/Pajar-Padillah/palm-oil-daily-harvest/assets/81399270/54ef60ac-8bc1-4e56-88d2-904e62de11f7)
+![9](https://github.com/Pajar-Padillah/palm-oil-daily-harvest/assets/81399270/fd0c8ebe-89a8-453d-95a4-f367e9872589)
 
 <h3>Report</h3>
 
-![10](https://github.com/Pajar-Padillah/palm-oil-daily-harvest/assets/81399270/c4340151-ee57-47b2-8f21-e3b9d4a1cf53)
+![10](https://github.com/Pajar-Padillah/palm-oil-daily-harvest/assets/81399270/08f99cf9-1d3e-4d31-b833-3048005204b8)
 
 
